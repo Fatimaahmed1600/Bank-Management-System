@@ -1,2 +1,21 @@
-# Bank-Management-System
-A console-based banking system developed in C++ with account management, deposit, withdrawal, and balance inquiry features.
+# Bank Management System
+
+A console-based banking system developed using C++.
+
+## Features
+- Create Account
+- Balance Inquiry
+- Deposit Money
+- Withdraw Money
+- Close Account
+- Show All Accounts
+
+## Concepts Used
+- Structures
+- Functions
+- Dynamic Arrays
+- Pointers
+- Memory Management
+
+## Language
+- C++
